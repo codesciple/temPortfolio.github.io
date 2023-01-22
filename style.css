@@ -14,3 +14,9 @@
     animation: pulse 2s infinite;
   }
   
+  a {
+    cursor: pointer;
+}
+.pointer-cursor {
+    cursor: pointer;
+}
