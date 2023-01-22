@@ -1,0 +1,16 @@
+@keyframes pulse {
+    0% {
+      background-color: RGB(255, 255, 255);
+    }
+    50% {
+      background-color: RGB(17, 24, 39);
+    }
+    100% {
+      background-color: RGB(255, 255, 255);
+    }
+  }
+  
+  .pulse {
+    animation: pulse 2s infinite;
+  }
+  
