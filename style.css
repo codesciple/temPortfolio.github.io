@@ -3,7 +3,7 @@
       background-color: RGB(255, 255, 255);
     }
     50% {
-      background-color: RGB(17, 24, 39);
+      background-color: RGB(31, 41, 55);
     }
     100% {
       background-color: RGB(255, 255, 255);
@@ -14,9 +14,4 @@
     animation: pulse 2s infinite;
   }
   
-  a {
-    cursor: pointer;
-}
-.pointer-cursor {
-    cursor: pointer;
-}
+  
